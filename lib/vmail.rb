@@ -2,6 +2,7 @@ require 'vmail/version'
 require 'vmail/options'
 require 'vmail/query'
 require 'vmail/message_formatter'
+require 'vmail/imap_client'
 
 require 'iconv'
 
